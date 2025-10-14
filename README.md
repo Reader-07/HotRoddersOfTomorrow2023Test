@@ -1,0 +1,1 @@
+The Hot Rodders of Tomorrow hosts a competition every year that brings in high schoolers from across the United States of America to build a 350 small block Chevy engine as quick as they can. As a part of their time, each member of the team must complete an exam. This project is my elementary attempt to make it easier for them to test themselves on the content of the exam.
